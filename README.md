@@ -21,7 +21,7 @@ LiveIn Shop é uma plataforma de vídeo commerce que transforma vídeos em canai
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![NestJS](https://img.shields.io/badge/TypeORM-black?style=for-the-badge&logo=typeorm&logoColor=E0234E)
+![TypeORM](https://img.shields.io/badge/TypeORM-black?style=for-the-badge&logo=typeorm&logoColor=E0234E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 ### Driver Up (Em breve...)
@@ -33,8 +33,10 @@ Aplicativo de serviços para carros.
 ![Styled Components](https://img.shields.io/badge/Styled_Components-black?style=for-the-badge&logo=styled-components&logoColor=DB7093)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![Fastify](https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify&logoColor=White)
-![Fastify](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=sequelize&logoColor=White)
+![Sequelize](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=sequelize)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MySQL](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Draw.io](https://img.shields.io/badge/Draw.io-black?style=for-the-badge&logo=diagrams.net)
 
 ---
 
