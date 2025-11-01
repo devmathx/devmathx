@@ -8,24 +8,28 @@ Sou um desenvolvedor focado em construir **soluções eficientes e escaláveis**
 
 ### Better Endpoints
 Uma biblioteca TypeScript para simplificar o tratamento de resposta de API e gerenciar erros HTTP personalizados.
-[NPM Packages](https://www.npmjs.com/package/better-endpoints)
+
+> 🚀 Acesse em [NPM Packages](https://www.npmjs.com/package/better-endpoints)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=007ACC)
 
-### LiveIn Shop
+### Financial Core
 LiveIn Shop é uma plataforma de vídeo commerce que transforma vídeos em canais de vendas interativos, permitindo que os clientes comprem diretamente a partir dos vídeos, sem sair da página.
-[Site](https://www.liveinshop.com.br)
+
+> 🛠️ Em desenvolvimento
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![TypeORM](https://img.shields.io/badge/TypeORM-black?style=for-the-badge&logo=typeorm&logoColor=E0234E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Sequelize](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=sequelize)
 
-### Driver Up (Em breve...)
+### Driver Up 
 Aplicativo de serviços para carros.
+
+> 🧪 Etapa de testes
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,13 +41,3 @@ Aplicativo de serviços para carros.
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MySQL](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 ![Draw.io](https://img.shields.io/badge/Draw.io-black?style=for-the-badge&logo=diagrams.net)
-
----
-
-<div align="center">
-  <img align="center" alt="Matt-C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Matt-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Matt-Arduino" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Matt-MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Matt-MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-</div>
