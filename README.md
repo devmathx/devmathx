@@ -9,12 +9,12 @@ Sou um desenvolvedor focado em construir **soluções eficientes e escaláveis**
 ### Better Endpoints
 Uma biblioteca TypeScript para simplificar o tratamento de resposta de API e gerenciar erros HTTP personalizados.
 
-> 🚀 Acesse em [NPM Packages](https://www.npmjs.com/package/better-endpoints)
+> 🚀 Acesse em [NPM - Better Endpoints](https://www.npmjs.com/package/better-endpoints)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=007ACC)
 
 ### Financial Core
-LiveIn Shop é uma plataforma de vídeo commerce que transforma vídeos em canais de vendas interativos, permitindo que os clientes comprem diretamente a partir dos vídeos, sem sair da página.
+Financial Core é um sistema para organizar e visualizar finanças pessoais e compartilhadas.
 
 > 🛠️ Em desenvolvimento
 
