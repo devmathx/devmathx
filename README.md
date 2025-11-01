@@ -40,7 +40,7 @@ Financial Core é um sistema para organizar e visualizar finanças pessoais e co
 ![Sequelize](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=sequelize)
 
 ### Projeto A.V.A - Assistente Virtual Avançada
-Projeto A.V.A é um assistente virtual híbrido desenvolvido como parte de um Trabalho de Conclusão de Curso (TCC), integrando tecnologias de software (Python) e hardware (Arduino) para controle de dispositivos físicos, interações por voz e gerenciamento de recursos computacionais.
+Projeto A.V.A é um assistente virtual híbrido desenvolvido como parte de um Trabalho de Conclusão de Curso (TCC).
 > 🛠️ Em desenvolvimento
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
